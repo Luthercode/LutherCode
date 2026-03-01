@@ -32,4 +32,4 @@ Disponível para oportunidades de trabalho **remoto (home office)** em empresas 
 
 ---
 
-📧 Contacte-me através do [LinkedIn](https://linkedin.com) ou por email!
+📧 Contacte-me através do [LinkedIn](www.linkedin.com/in/luthercode) ou por email!
