@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Anthony "Luther"
+# Olá! 👋 Eu sou o Anthony conhecido como Luther
 
 **Full Stack Developer** | React · Node.js · Express · MongoDB
 
