@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack • Cybersecurity Student`**
 
-Olá! Me chamo **Anthony**, mais conhecido como **Luther**, tenho **20 anos** e sou da **Paraíba, Brasil**.
+Olá! Me chamo **Anthony**, mais conhecido como **Luther**, tenho **20 anos** e sou da **Paraíba**.
 
 🎓 Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou aprofundando meus conhecimentos em **Desenvolvimento Full Stack** e **Cybersegurança**.
 
