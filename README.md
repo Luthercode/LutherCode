@@ -73,16 +73,6 @@ Olá! Me chamo **Anthony**, mais conhecido como **Luther**, tenho **20 anos** e 
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luthercode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthercode&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contato
 
 - 💼 GitHub: https://github.com/Luthercode
